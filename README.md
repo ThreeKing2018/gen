@@ -16,3 +16,4 @@ git checkout -b [自己的分支名]
 - 生成mysql CRUD代码
 - 生成MYSQL Markdown文档
 - 生成REDIS 代码
+- 生成项目目录
